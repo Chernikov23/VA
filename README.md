@@ -10,3 +10,6 @@ In the future it is planned to realize normal work of the assistant on Windows.
 **IMPORTANT**
 In order for the assistant to answer various questions, you need to get an API key for GigaChat and enter it in the field: 
 `credentials = 'ENterYourApiKeyHere'`
+
+
+If you have any questions about this project you can write in Telegram. Nickname: **chernikov23**
