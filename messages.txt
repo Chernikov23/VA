@@ -1,1 +1,1 @@
-
+This is the file where user requests and assistant responses will be stored
