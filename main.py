@@ -15,7 +15,7 @@ import webbrowser
 import osascript
 from urllib.parse import quote
 
-r = sr.Recognizer()
+r = sr.Recognizer() 
 language = "ru"
 slow = 2
 
