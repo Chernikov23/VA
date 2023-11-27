@@ -6,7 +6,7 @@ import os
 import subprocess
 import jokes as jk
 import random
-import requests
+import requests 
 from gpytranslate import SyncTranslator
 from gigachat import GigaChat
 from bs4 import BeautifulSoup
